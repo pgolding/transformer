@@ -2,6 +2,9 @@
 
 Demystification of NLP Transformer and self-attention with some intuitions sprinkled on top.
 
+- Jump straight to [Part 1](Transformers Demystified.ipynb) - "Transformer Demystified -- Part 1 (Core Concepts and Encoder)
+"
+
 # Motivation
 
 I wanted to add some missing details to standard transformer annotations often found in courses and texts. But not wanting to reinvent the wheel with yet another explanation, the accompanying notebooks are mostly an expansion of [Chapter 11 of the Dive Into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html) open source book -- a valuable resource for learners. (We are all learners.)

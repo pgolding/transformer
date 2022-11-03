@@ -2,8 +2,7 @@
 
 Demystification of NLP Transformer and self-attention with some intuitions sprinkled on top.
 
-- Jump straight to [Part 1](Transformers Demystified.ipynb) - "Transformer Demystified -- Part 1 (Core Concepts and Encoder)
-"
+Jump straight to [Part 1](Transformers%20Demystified.ipynb) - __Transformer Demystified -- Part 1 (Core Concepts and Encoder)__
 
 # Motivation
 

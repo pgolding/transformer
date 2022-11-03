@@ -12,7 +12,7 @@ I guess I could have contributed to the book somehow, but, as you will see, my e
 
 Mostly, I hope to demystify things.
 
-The Transformer is on the one hand a remarkably simple invention -- one almost wonders why it wasn't thought of earlier. Well, actually it was, only it appears that no one attempted to use the idea at scale in this particular configuration (i.e. without recursion). On the other hand, down in the arithmetic weeds one might lose sight of why its designed the way it is. (Note: many inventions in tech have been invented before, perhaps in different guises. For example, the core principle of Deep Learning frameworks is automatic differentiation, but it appears that the DL community had not noticed how far the Optimization community had already taken this subject.)
+The Transformer is on the one hand a remarkably simple invention -- one almost wonders why it wasn't thought of earlier. Well, actually it was, only it appears that no one attempted to use the idea at scale in this particular configuration (i.e. without recursion). On the other hand, down in the arithmetic weeds one might lose sight of why it's designed the way it is. (Note: many inventions in tech have been invented before, perhaps in different guises. For example, the core principle of Deep Learning frameworks is automatic differentiation, but it appears that the DL community had not noticed how far the Optimization community had already taken this subject.)
 
 Well, I say "it" (The Transformer), but there are now many variants. My annotations are of the DIDL version, which is a kind of canonical representation of the original architecture from the referenced paper [Attention is all You Need](https://d2l.ai/chapter_references/zreferences.html#id297).
 

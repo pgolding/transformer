@@ -1,4 +1,4 @@
-# Transformer
+# Transformer Demystified (Code-level Annotation)
 
 Demystification of NLP Transformer and self-attention with some intuitions sprinkled on top.
 
